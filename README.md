@@ -13,7 +13,7 @@ For the tennis data, I used the famous and very detailed **Jeff Sackmann tennis 
 ## 📚 References / Inspirations
 
 **Really detailed, holy grail of tennis datasets:**
-- [Jeff Sackmann Tennis Data](https://github.com/JeffSackmann/tennis_atp)
+- Jeff Sackmann Tennis Data (ATP), licensed under CC BY-NC-SA 4.0: [github.com/JeffSackmann/tennis_atp](https://github.com/JeffSackmann/tennis_atp)
 
 **Found a really detailed and cool study about Weighted Elo and rating predictions:**
 - Angelini, G., Candila, V., & De Angelis, L. (2022). *Weighted Elo rating for tennis match predictions*. European Journal of Operational Research, 297(1), 120–132. [DOI: 10.1016/j.ejor.2021.04.011](https://doi.org/10.1016/j.ejor.2021.04.011)
