@@ -1,4 +1,4 @@
-# 🎾 Tennis Match Predictions
+#  Tennis Match Predictions
 
 A tennis match prediction project focusing on supervised machine learning algorithms — **Decision Trees** and **Random Forests**.
 
@@ -10,7 +10,7 @@ For the tennis data, I used the famous and very detailed **Jeff Sackmann tennis 
 
 ---
 
-## 📚 References / Inspirations
+##  References / Inspirations
 
 **Really detailed, holy grail of tennis datasets:**
 - Jeff Sackmann Tennis Data (ATP), licensed under CC BY-NC-SA 4.0: [github.com/JeffSackmann/tennis_atp](https://github.com/JeffSackmann/tennis_atp)
@@ -23,7 +23,7 @@ For the tennis data, I used the famous and very detailed **Jeff Sackmann tennis 
 
 ---
 
-## 🎯 Project Goal, Hardships, and Future Improvements
+##  Project Goal, Hardships, and Future Improvements
 
 ### Project Goal
 The main goal of this project was to apply Decision Trees and Random Forests to a real-world dataset while having some fun implementing player elo in a sports game.
